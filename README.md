@@ -6,7 +6,7 @@ First, download the Python file from the release of the language you want to use
 
 After that, when you run that Python, it will ask you a question, so you can write it in the syntax that matches the language you downloaded and press Enter to run it.
 
-## Sentences that can be used
+## Sentences that can be used (en-US)
 
 
 Example:
